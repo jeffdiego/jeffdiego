@@ -5,7 +5,7 @@
 Me chamo Jefferson, e sou natural do Ceará. Meu foco é desenvolvimento de aplicações web, mas estou sempre estudando e testando novas tecnologias. Sou apaixonado por tecnologia e por aprender coisas novas. 
 
 [![](https://img.shields.io/badge/@JeffDiego-100000?style=flat&logo=github&logoColor=white)](https://github.com/felipeArnold)
-[![](https://img.shields.io/badge/@Jefferson-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-w%C3%BCst-arnold-a97325168/)
+[![](https://img.shields.io/badge/@Jefferson-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jefffsus/)
 [![](https://img.shields.io/badge/@Jefffsus-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jefffsus/)
 ---
 
